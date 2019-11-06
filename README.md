@@ -1,2 +1,1 @@
-# composable-js
-Created with CodeSandbox
+# Composable Functional JS
